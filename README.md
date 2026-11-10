@@ -426,10 +426,4 @@ seed.js
 
 # Feito por: 
 
-Arthur Marques
-
-Henrique Duarte
-
-Luiza Timporini
-
-João Vitor
+Matheus Lopes Ferreira
